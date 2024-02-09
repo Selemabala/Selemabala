@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Selemabala
+- 👋 Hi, I’m @Seleman 
 - 👀 I’m interested in web development and software engeneering.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on project making through C#
