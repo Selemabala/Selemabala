@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seleman 
-- 👀 I’m interested in software engeneering.
-- 💞️ I’m looking to collaborate on project making through C#
+- 👀 software engeneering.
+- 💞️  C#
 - 📫 How to reach me instagram Seleman Pharles Mabala
 - 😄 Pronouns: ...
 
