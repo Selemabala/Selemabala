@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seleman 
 - 👀 software engeneering.
 - 💞️  C#
-- 📫 How to reach me instagram Seleman Pharles Mabala
+- 📫 How to reach me on Linkedin Seleman Pharles Mabala
 - 😄 Pronouns: ...
 
 <!---
